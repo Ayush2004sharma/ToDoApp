@@ -1,39 +1,33 @@
-### 📝 Project Overview
+# 📝 Project Overview
 
-This is a React-Redux To-Do App with authentication and weather updates. Users can log in, add tasks, filter them by status or priority, and get real-time weather updates. The app is built using the React JS and Redux and deployed on Vercel.
+This is a **React-Redux To-Do App** with authentication and weather updates. Users can log in, add tasks, filter them by status or priority, and get real-time weather updates. The app is built using **React JS and Redux** and deployed on **Vercel**.
 
-### 📌 Features
+## 📌 Features
 
-✅ User Authentication: Simple login system using Redux.
+✅ **User Authentication**: Simple login system using Redux.  
+✅ **To-Do List**: Add, remove, and update tasks.  
+✅ **Priority & Sorting**: Categorize tasks by priority and sort them easily.  
+✅ **Weather Updates**: Shows current weather using an API.  
+✅ **Persistent State**: Data is stored using localStorage.  
+✅ **Mobile-Friendly UI**: Fully responsive design.  
 
-✅ To-Do List: Add, remove, and update tasks.
+## 🚀 Tech Stack
 
-✅ Priority & Sorting: Categorize tasks by priority and sort them easily.
+- **Frontend**: React, Redux Toolkit, Tailwind CSS  
+- **API**: Weather API (for weather updates)  
+- **Deployment**: Vercel  
 
-✅ Weather Updates: Shows current weather using an API.
+---
 
-✅ Persistent State: Data is stored using localStorage.
+## 📸 Screenshots
 
-✅ Mobile-Friendly UI: Fully responsive design.
+### 1️⃣ Login Page  
+![Login Page](https://raw.githubusercontent.com/your-username/todo-app/main/path-to-login-image.png)  
 
-### 🚀 Tech Stack
+### 2️⃣ To-Do List  
+![To-Do List](https://raw.githubusercontent.com/your-username/todo-app/main/path-to-todo-list-image.png)  
 
-Frontend: React, Redux Toolkit, Tailwind CSS
-
-API: Weather API (for weather updates)
-
-Deployment: Vercel
-
-
-### 1️⃣ Login Page
-![Screenshot 2025-03-26 174029](![image](https://github.com/user-attachments/assets/54d186fb-c44c-48f6-9932-e5c24446cd97)
-)
-
-
-### 2️⃣ To-Do List
-
-![Screenshot 2025-03-26 173956](![image](https://github.com/user-attachments/assets/d7b1db1f-9992-4f2b-9b6e-0de0b29c6486)
-)
+---
 
 ## 🚀 Setup Instructions
 
@@ -41,13 +35,3 @@ Deployment: Vercel
 ```bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
-```
-
-### 2️⃣ Install Dependencies
-```bash
-npm install
-```
-### 3️⃣ Start the App
-```bash
-npm start
-```
