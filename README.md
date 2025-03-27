@@ -26,12 +26,14 @@ Deployment: Vercel
 
 
 ### 1️⃣ Login Page
-![Screenshot 2025-03-26 174029](https://github.com/user-attachments/assets/a3901168-6c5f-4e1e-9bc8-936bf06d53dd)
+![Screenshot 2025-03-26 174029](![image](https://github.com/user-attachments/assets/54d186fb-c44c-48f6-9932-e5c24446cd97)
+)
 
 
 ### 2️⃣ To-Do List
 
-![Screenshot 2025-03-26 173956](https://github.com/user-attachments/assets/c60f5e2f-2d9e-447b-af80-c0e9f2a6aaea)
+![Screenshot 2025-03-26 173956](![image](https://github.com/user-attachments/assets/d7b1db1f-9992-4f2b-9b6e-0de0b29c6486)
+)
 
 ## 🚀 Setup Instructions
 
